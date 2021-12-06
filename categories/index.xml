@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on ANoCEO</title>
+    <link>https://ANoCEO.github.io/categories/</link>
+    <description>Recent content in Categories on ANoCEO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 05 Oct 2021 21:00:00 +0800</lastBuildDate><atom:link href="https://ANoCEO.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>規劃</title>
+      <link>https://ANoCEO.github.io/categories/%E8%A6%8F%E5%8A%83/</link>
+      <pubDate>Tue, 05 Oct 2021 21:00:00 +0800</pubDate>
+      
+      <guid>https://ANoCEO.github.io/categories/%E8%A6%8F%E5%8A%83/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>心得</title>
+      <link>https://ANoCEO.github.io/categories/%E5%BF%83%E5%BE%97/</link>
+      <pubDate>Thu, 16 Apr 2020 10:07:47 +0800</pubDate>
+      
+      <guid>https://ANoCEO.github.io/categories/%E5%BF%83%E5%BE%97/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android And Gaming</title>
+      <link>https://ANoCEO.github.io/categories/android-and-gaming/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://ANoCEO.github.io/categories/android-and-gaming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Go Language</title>
+      <link>https://ANoCEO.github.io/categories/go-language/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://ANoCEO.github.io/categories/go-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML</title>
+      <link>https://ANoCEO.github.io/categories/html/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://ANoCEO.github.io/categories/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML &amp; CSS</title>
+      <link>https://ANoCEO.github.io/categories/html-css/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://ANoCEO.github.io/categories/html-css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming Language</title>
+      <link>https://ANoCEO.github.io/categories/programming-language/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://ANoCEO.github.io/categories/programming-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://ANoCEO.github.io/categories/python/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://ANoCEO.github.io/categories/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Design</title>
+      <link>https://ANoCEO.github.io/categories/web-design/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://ANoCEO.github.io/categories/web-design/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

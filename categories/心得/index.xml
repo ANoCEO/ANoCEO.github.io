@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>心得 on ANoCEO</title>
+    <link>https://ANoCEO.github.io/categories/%E5%BF%83%E5%BE%97/</link>
+    <description>Recent content in 心得 on ANoCEO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 16 Apr 2020 10:07:47 +0800</lastBuildDate><atom:link href="https://ANoCEO.github.io/categories/%E5%BF%83%E5%BE%97/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第一篇文章唷</title>
+      <link>https://ANoCEO.github.io/blog/test/</link>
+      <pubDate>Thu, 16 Apr 2020 10:07:47 +0800</pubDate>
+      
+      <guid>https://ANoCEO.github.io/blog/test/</guid>
+      <description>這裡是內文的示範
+一級標題 二級標題 最小是六級標題 粗體是兩個米字，斜體只要一個
+ aphabatical  句首有4個空白鍵   sequencely 有序序列   無序序列1 無序序列2  句首有4個空白鍵  這句話則是有8個空白鍵       引用是要打右勾勾</description>
+    </item>
+    
+  </channel>
+</rss>
