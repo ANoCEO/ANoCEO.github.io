@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PM選書 on ANoCEO</title>
+    <link>https://ANoCEO.github.io/categories/pm%E9%81%B8%E6%9B%B8/</link>
+    <description>Recent content in PM選書 on ANoCEO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Wed, 06 Apr 2022 21:00:00 +0800</lastBuildDate><atom:link href="https://ANoCEO.github.io/categories/pm%E9%81%B8%E6%9B%B8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>精實創業</title>
+      <link>https://ANoCEO.github.io/blog/test4/</link>
+      <pubDate>Wed, 06 Apr 2022 21:00:00 +0800</pubDate>
+      
+      <guid>https://ANoCEO.github.io/blog/test4/</guid>
+      <description>《精實創業》 「精實」系列的方法源自於豐田汽車的生產管理方式，基於小量、快速反應聞名。此生產方式使企業能及時得到產線上的資訊，進而及早應變、停止生產，以減少後續不必要的資源浪費。如果套用到創業上，他的精隨則是 「快速試錯」 ：用最短的時間內找出最小可行性產品(Minimum Valuable Product, MVP)給初期使用者來嘗試。
+以塑膠產品設計為例，若是使用一般”大量製造”的邏輯，他的設計流程便是：
+定義需求→設計↔製作樣品→開模→試產→量產 過程當中，由產品經理(Product Manager)定義需求，並由工程師完成後續細節，樣品由公司內部去審核，最後才在試、量產後交給客戶使用。傳統的企業的管理上，也是傾向「如何快點把東西做出來」。若想要知道客戶買不買單，則要等到上述流程做完一遍之後，才會知道客戶會不會埋單、是否符合市場需求；若產品賣不出去，壓力就會全部堆到業務的身上，期望業務們能將東西賣出去(無論產品是好是壞)。</description>
+    </item>
+    
+  </channel>
+</rss>
