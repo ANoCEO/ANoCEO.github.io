@@ -6,29 +6,20 @@
     <description>Recent content in Tags on ANoCEO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 06 Apr 2022 21:00:00 +0800</lastBuildDate><atom:link href="https://ANoCEO.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Business</title>
-      <link>https://ANoCEO.github.io/tags/business/</link>
-      <pubDate>Wed, 06 Apr 2022 21:00:00 +0800</pubDate>
-      
-      <guid>https://ANoCEO.github.io/tags/business/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Sun, 17 Jul 2022 13:30:00 +0800</lastBuildDate><atom:link href="https://ANoCEO.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Management</title>
       <link>https://ANoCEO.github.io/tags/management/</link>
-      <pubDate>Wed, 06 Apr 2022 21:00:00 +0800</pubDate>
+      <pubDate>Sun, 17 Jul 2022 13:30:00 +0800</pubDate>
       
       <guid>https://ANoCEO.github.io/tags/management/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>PM list</title>
+      <title>PM List</title>
       <link>https://ANoCEO.github.io/tags/pm-list/</link>
-      <pubDate>Wed, 06 Apr 2022 21:00:00 +0800</pubDate>
+      <pubDate>Sun, 17 Jul 2022 13:30:00 +0800</pubDate>
       
       <guid>https://ANoCEO.github.io/tags/pm-list/</guid>
       <description></description>
@@ -37,9 +28,18 @@
     <item>
       <title>Reading</title>
       <link>https://ANoCEO.github.io/tags/reading/</link>
-      <pubDate>Wed, 06 Apr 2022 21:00:00 +0800</pubDate>
+      <pubDate>Sun, 17 Jul 2022 13:30:00 +0800</pubDate>
       
       <guid>https://ANoCEO.github.io/tags/reading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Business</title>
+      <link>https://ANoCEO.github.io/tags/business/</link>
+      <pubDate>Wed, 06 Apr 2022 21:00:00 +0800</pubDate>
+      
+      <guid>https://ANoCEO.github.io/tags/business/</guid>
       <description></description>
     </item>
     

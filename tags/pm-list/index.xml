@@ -1,19 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PM list on ANoCEO</title>
+    <title>PM List on ANoCEO</title>
     <link>https://ANoCEO.github.io/tags/pm-list/</link>
-    <description>Recent content in PM list on ANoCEO</description>
+    <description>Recent content in PM List on ANoCEO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 06 Apr 2022 21:00:00 +0800</lastBuildDate><atom:link href="https://ANoCEO.github.io/tags/pm-list/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Jul 2022 13:30:00 +0800</lastBuildDate><atom:link href="https://ANoCEO.github.io/tags/pm-list/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>精實創業</title>
+      <title>《Google 創投認證！SPRINT衝刺計畫》</title>
+      <link>https://ANoCEO.github.io/blog/test1/</link>
+      <pubDate>Sun, 17 Jul 2022 13:30:00 +0800</pubDate>
+      
+      <guid>https://ANoCEO.github.io/blog/test1/</guid>
+      <description>在《精實創業》中提到，新創公司最大的挑戰就是「如何在資源用盡前，找到可以讓公司永續經營的產品」；需要用「快速試錯」的方式，才能在短時間內確認目標。 那這個「最短時間」，究竟多短？這本書便回答了這個問題：一週。他的安排是：
+前置：了解活動大綱與組隊 書中前言提到，一般的開會總是拖得又臭又長，有時甚至沒有結論；坊間密技「腦力激盪」，往往成效比起單兵作業還差。作者發現，一群人開會往往是雜亂無章的，A提個方案、B給個回饋、C又提個方案，結果D還在想A方案的缺點…，即使時間在長，也無法得出共識。所以SPRINT計畫即是 「把討論階段劃分清楚」 ，第1個小時提案，第2個小時講反饋，第3個小時優化，第4個小時做總結，第5個小時投票； 只要超過時間就不能回頭討論 ，即使有再好的意見也一樣，要等這一周、這一輪SPRINT跑完再說。 關於團隊的組成，根據作者的團隊帶領數百間公司的經驗所做的歸納，人數只要超過7人，便更難快速地做出結論，且最終的成果也不沒有比較好。而團隊中也一定要有當權者的參與，就有團隊曾經在SPRINT完成後，CEO反而覺得成果並沒有解決當務之急。又有另一個團隊是有CEO的參與，但在做結論時，大家的選擇與CEO相左；CEO基於人情、民主等關係，還是選擇了大家的方案，結果卻不禁理想。一周的SPRINT結束後，公司又持續優化了該方案3個月，最後CEO才又提起了自己原先選擇的方案來執行，所得到的MVP(最小可行性產品,Minimum Valuable Product)也很符合市場需求。 所以，SPRINT的重點在於： 有秩序地討論出當權者能選擇的方案來製作，並透過該產品快速取得客戶回饋。</description>
+    </item>
+    
+    <item>
+      <title>《精實創業》</title>
       <link>https://ANoCEO.github.io/blog/test4/</link>
       <pubDate>Wed, 06 Apr 2022 21:00:00 +0800</pubDate>
       
       <guid>https://ANoCEO.github.io/blog/test4/</guid>
-      <description>《精實創業》 「精實」系列的方法源自於豐田汽車的生產管理方式，基於小量、快速反應聞名。此生產方式使企業能及時得到產線上的資訊，進而及早應變、停止生產，以減少後續不必要的資源浪費。如果套用到創業上，他的精隨則是 「快速試錯」 ：用最短的時間內找出最小可行性產品(Minimum Valuable Product, MVP)給初期使用者來嘗試。
+      <description>「精實」系列的方法源自於豐田汽車的生產管理方式，基於小量、快速反應聞名。此生產方式使企業能及時得到產線上的資訊，進而及早應變、停止生產，以減少後續不必要的資源浪費。如果套用到創業上，他的精隨則是 「快速試錯」 ：用最短的時間內找出最小可行性產品(Minimum Valuable Product, MVP)給初期使用者來嘗試。
 以塑膠產品設計為例，若是使用一般”大量製造”的邏輯，他的設計流程便是：
 定義需求→設計↔製作樣品→開模→試產→量產 過程當中，由產品經理(Product Manager)定義需求，並由工程師完成後續細節，樣品由公司內部去審核，最後才在試、量產後交給客戶使用。傳統的企業的管理上，也是傾向「如何快點把東西做出來」。若想要知道客戶買不買單，則要等到上述流程做完一遍之後，才會知道客戶會不會埋單、是否符合市場需求；若產品賣不出去，壓力就會全部堆到業務的身上，期望業務們能將東西賣出去(無論產品是好是壞)。</description>
     </item>
